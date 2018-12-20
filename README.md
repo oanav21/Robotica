@@ -38,7 +38,7 @@ Youtube: https://youtu.be/K0zparGiEfQ
 
     Program - arduino: 
     
-    Sarpele il vom vedea ca 2 vectori: unul reprezintalinia, iar celalalt coloana pe care se 
+    Sarpele il vom vedea ca 2 vectori: unul reprezinta linia, iar celalalt coloana pe care se 
     afla componenta lui respectiva. Am utilizat o variabila "life" cu scopul de a putea determina
     la al catelea joc se afla jucatorul, in functie de asta stiind daca se va restarta singur sau 
     se va opri. In functie de valoarea citita pentru axele Ox, Oy, determinam directia in care merge,
